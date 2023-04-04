@@ -2,11 +2,11 @@
 
 This was a technical test made for Woovi by Felipe Gomes Lopes at 04/04/2023. Where my goal was to implement a complete CRUD using GraphQL
 
-The framework chosen for the task was Nest.js, a modern Node.js framework that utilises express and other Node.js web lib to create a very solid and scalable web framework that can work with RESTful and GraphQL apis.
+The framework chosen for the task was Nest.js, a modern Node.js framework that utilises express and other Node.js web libs to create a very solid and scalable web framework that can work with RESTful and GraphQL apis.
 
 ## About it
 
-My approach was to create a docker-compose.yml file where I can create a database to be consumed. The database chosen was PostgresSQL a relation database.
+My approach was to create a docker-compose.yml file where I can create a database to be consumed. The database chosen was PostgresSQL a relational database.
 
 To build our database you can use the script in scripts/start.sh
 
